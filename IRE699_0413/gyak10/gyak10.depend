@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1649835469 source:/home/Redd15/Documents/ME/IRE699OsGyak/IRE699_0413/gyak10/main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/file.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<string.h>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/file.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<string.h>
+
