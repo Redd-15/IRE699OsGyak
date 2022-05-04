@@ -17,10 +17,10 @@ int main(int argc, char **argv)
 
     printf("PID = %d\n", getpid());
 
+    signal(SIGALRM, do_nothing);
+
     while (1) {
         alarm(sec);
-        signal(SIGALRM, do_nothing);
-
         pause();
     }
 
